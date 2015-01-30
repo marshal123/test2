@@ -1,1 +1,0 @@
-(?s)\<font face=Webdings size=6\>\<b\>!\</b\>\</font\>\<b\>&nbsp;&nbsp;.*?PHP version:.*?cURL:.*?MySQL:.*?MSSQL:.*?PostgreSQL:.*?Oracle:
